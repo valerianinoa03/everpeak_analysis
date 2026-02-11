@@ -16,7 +16,7 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 
 3. Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/everpeak_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/valerianinoa03/everpeak_analysis/blob/main/everpeak_analysis.ipynb)
 
 
 ## 📘 Cómo reproducir el análisis
