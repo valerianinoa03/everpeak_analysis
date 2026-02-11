@@ -14,6 +14,16 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 1. Abre el archivo `.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
+3. Haz clic en el siguiente botón:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/everpeak_analysis.ipynb)
+
+
+## 📘 Cómo reproducir el análisis
+
+1. Abre `notebooks/everpeak_analysis.ipynb`
+2. Ejecuta las celdas en orden
+
 
 ## 🧠 Objetivo del análisis
 
